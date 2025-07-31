@@ -36,7 +36,7 @@ The dataset, consisting of over 50,000 OHLCV (Open, High, Low, Close, Volume) da
 
 1.  Clone the repository:
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/webdevgap/crypto-price-forecasting-lstm
     ```
 2.  Install the required packages:
     ```bash
