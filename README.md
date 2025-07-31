@@ -31,7 +31,6 @@ The dataset, consisting of over 50,000 OHLCV (Open, High, Low, Close, Volume) da
 
 -   **Languages:** Python
 -   **Libraries:** Pandas, Scikit-learn, XGBoost, Optuna
--   **APIs:** Binance API
 
 ## How to Run This Project
 
