@@ -42,8 +42,7 @@ The dataset, consisting of over 50,000 OHLCV (Open, High, Low, Close, Volume) da
     ```bash
     pip install -r requirements.txt
     ```
-3.  Set up your Binance API key in the configuration file.
-4.  Run the main data ingestion and training script:
+3.  Run the main data ingestion and training script:
     ```bash
     python main.py
     ```
