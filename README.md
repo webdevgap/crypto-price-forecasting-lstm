@@ -12,7 +12,7 @@ This project demonstrates a complete data science pipeline, including:
 
 ## Dataset
 
-The dataset, consisting of over 50,000 OHLCV (Open, High, Low, Close, Volume) data points, was sourced directly from the Binance API. The data ingestion script is included in this repository. No external data download is required to run this project.
+The dataset, consisting of over 50,000 OHLCV (Open, High, Low, Close, Volume) data points, was sourced directly. The data ingestion script is included in this repository. No external data download is required to run this project.
 
 ## My Approach
 
