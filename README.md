@@ -1,3 +1,5 @@
+<img width="722" height="506" alt="Screenshot 2025-08-07 213027" src="https://github.com/user-attachments/assets/aa9f54a2-3bd7-4c2b-898e-da1f0ddb25c0" />
+<img width="554" height="419" alt="Screenshot 2025-08-07 213020" src="https://github.com/user-attachments/assets/52bc57a4-0b49-4338-bac3-4cba27568943" />
 # Cryptocurrency Price Forecasting Engine
 
 This repository contains the code for a deep learning model developed to predict Bitcoin (BTC/USD) price trends using historical market data. This project was created as part of a Kaggle competition and focuses on the end-to-end workflow of time-series forecasting in a volatile financial market.
