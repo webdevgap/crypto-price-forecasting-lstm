@@ -5,7 +5,7 @@ This repository contains the code for a deep learning model developed to predict
 ## Project Summary
 
 This project demonstrates a complete data science pipeline, including:
-- An automated data ingestion process using the Binance API.
+- An automated data ingestion process.
 - Feature engineering of technical indicators to capture market dynamics.
 - Development and tuning of an LSTM neural network designed for sequence prediction.
 - A rigorous model validation strategy suited for financial time-series data to prevent lookahead bias.
